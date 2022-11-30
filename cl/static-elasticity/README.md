@@ -95,10 +95,8 @@ dependencies:
 - scipy
 - click
 - matplotlib
-- pip
-- pip:
-  - sh
-  - pint
+- sh
+- pint
 ```
 
 Then run the following to create the environment:
